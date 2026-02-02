@@ -11,13 +11,13 @@ A comprehensive 3D virtual environment for earthquake search-and-rescue (SAR) tr
 
 ## 🎥 Demo Video
 
-**Full Simulation (11 Scenes):** ▶️ [Watch on Google Drive](https://drive.google.com/file/d/1jAvcEp8GBo5djOjBJkzzOFg0gwMNpOJ2/view)
+**Full Simulation (11 Scenes):** ▶️ [Watch on Google Drive](https://drive.google.com/file/d/1jAvcEp8GBo5djOjBJkzzOFg0gwMNpOJ2/view?usp=sharing)
 
 ---
 
 ## 🗂️ Blender Source Files
 
-**Complete Blender Project Files (.blend):** 📁 [Download from Google Drive](PASTE_YOUR_BLENDER_SOURCE_LINK_HERE)
+**Complete Blender Project Files (.blend):** 📁 [Download from Google Drive](https://drive.google.com/drive/folders/13CLPjAxKbBQIzsFwwALoJV0hvgorNWdq?usp=drive_link)
 
 > Includes:
 > - All scenes (1–11)
@@ -29,7 +29,7 @@ A comprehensive 3D virtual environment for earthquake search-and-rescue (SAR) tr
 ---
 
 ## 📄 Technical Report
-**IEEE Conference Paper:** [Download PDF](https://drive.google.com/drive/folders/1VDIJaLkzfc7LegXnjD-Wd1nOXPUuWfZH?usp=drive_link)
+**IEEE Conference Paper:** [Download PDF](https://drive.google.com/file/d/1zp9RjId3_YCkL1KtNJOpc4KQOvzYNV_h/view?usp=drive_link)
 
 ---
 
