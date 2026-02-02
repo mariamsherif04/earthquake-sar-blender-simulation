@@ -15,6 +15,19 @@ A comprehensive 3D virtual environment for earthquake search-and-rescue (SAR) tr
 
 ---
 
+## 🗂️ Blender Source Files
+
+**Complete Blender Project Files (.blend):** 📁 [Download from Google Drive](PASTE_YOUR_BLENDER_SOURCE_LINK_HERE)
+
+> Includes:
+> - All scenes (1–11)
+> - RBD Lab fracture setups
+> - Character rigs & animations
+> - Lighting, camera, and fog configurations
+> - Render-ready Cycles settings
+
+---
+
 ## 📄 Technical Report
 **IEEE Conference Paper:** [Download PDF](https://drive.google.com/drive/folders/1VDIJaLkzfc7LegXnjD-Wd1nOXPUuWfZH?usp=drive_link)
 
@@ -188,9 +201,9 @@ This simulation is designed for:
 
 | Team Member | Email |
 |-------------|-------|
-| **Alhussein Ayman Hanafi** | alhussienaymanhanafy@gmail.com |
-| **Ahmed Wael Shenif** | email@placeholder.com |
-| **AbdelRahman Reda Khalaf** | email@placeholder.com |
+| **Alhussien Ayman Hanafy** | alhussienaymanhanafy@gmail.com |
+| **Ahmed Wael Shenif** | ahmadswael@gmail.com |
+| **AbdelRahman Reda Khalaf** | abdlrhmankhalaf566@gmail.com |
 | **Sarah Sameh Mohamed** | sarah.mohamed03@eng-st.cu.edu.eg |
 | **Menna Allah Ashraf** | menaashrafalymohamed@gmail.com |
 | **Mariam Sherif Mohamed** | mariam.awwad04@eng-st.cu.edu.eg |
