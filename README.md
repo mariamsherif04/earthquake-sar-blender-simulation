@@ -9,14 +9,14 @@ A comprehensive 3D virtual environment for earthquake search-and-rescue (SAR) tr
 
 ---
 
-## 📹 Demo Video
-**Full Simulation (11 Scenes):**  
-🎥 [Watch on Google Drive](https://drive.google.com/file/d/1jAvcEp8GBo5djOjBJkzzOFg0gwMNpOJ2/view?usp=drive_link)
+## 🎥 Demo Video
+
+**Full Simulation (11 Scenes):** ▶️ [Watch on Google Drive](https://drive.google.com/file/d/1jAvcEp8GBo5djOjBJkzzOFg0gwMNpOJ2/view)
+
 ---
 
 ## 📄 Technical Report
-**IEEE Conference Paper:**  
-📑 [Download PDF](https://drive.google.com/drive/folders/1VDIJaLkzfc7LegXnjD-Wd1nOXPUuWfZH?usp=drive_link)
+**IEEE Conference Paper:** [Download PDF](https://drive.google.com/drive/folders/1VDIJaLkzfc7LegXnjD-Wd1nOXPUuWfZH?usp=drive_link)
 
 ---
 
@@ -187,7 +187,7 @@ This simulation is designed for:
 ## 👥 Development Team
 
 | Team Member | Email |
-|-------------|------|-------|
+|-------------|-------|
 | **Alhussein Ayman Hanafi** | alhussienaymanhanafy@gmail.com |
 | **Ahmed Wael Shenif** | email@placeholder.com |
 | **AbdelRahman Reda Khalaf** | email@placeholder.com |
